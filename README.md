@@ -1,0 +1,1 @@
+## This is some of my Solutions of the CS50 2022 PSets
