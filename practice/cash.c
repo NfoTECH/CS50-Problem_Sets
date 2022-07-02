@@ -24,7 +24,7 @@ int main(void)
     int nickels = calculate_nickels(cents);
     cents = cents - nickels * 5;
 
-    // Calculate the number of pennies to give the customer
+    // Calculate the number of pennies to give customer
     int pennies = calculate_pennies(cents);
     cents = cents - pennies * 1;
 
